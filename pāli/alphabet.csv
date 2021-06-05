@@ -2,13 +2,13 @@ roman,devanagari,phoneme,r-word,d-word,pronunciation,dpd id,approx en,ipa,ipa wi
 a,अ,01_a,arahanta,अरहन्त,01_a_arahanta,arahant,a in comma,ɐ,Near-open_central_vowel
 ā,आ,02_ā,āyatana,आयतन,02_ā_āyatana,āyatana 1,a in bra,aː,Open_front_unrounded_vowel
 i,इ,03_i,icchā,इच्छा,03_i_icchā,icchā,i in sit,ɪ,Near-close_near-front_unrounded_vowel
-ī,ई,04_ī,īdisa (of such kind),ईदिस,04_ī_īdisa,īdisa,ee in feet,iː,Close_front_unrounded_vowel
+ī,ई,04_ī,īdisa,ईदिस,04_ī_īdisa,īdisa,ee in feet,iː,Close_front_unrounded_vowel
 u,उ,05_u,uposatha,उपोसथ,05_u_uposatha,uposatha,oo in look,ʊ,Near-close_near-back_rounded_vowel
-ū,ऊ,06_ū,ūhacca (uprooting),ऊहच्च,06_ū_ūhacca,ūhacca,oo in loot,uː,Close_back_rounded_vowel
-e (short),ए (short),07_e_1.short,mettā,मेत्ता,07_e_1.short_mettā,mettā,<half of long-e>,e,Close-mid_front_unrounded_vowel
-e (long),ए (long),08_e_2.long,eka,एक,08_e_2.long_eka,eka 1,ai in wait,eː,Close-mid_front_unrounded_vowel
-o (short),ओ (short),09_o_1.short,potthaka,पोत्थक,09_o_1.short_potthaka,potthaka,<half of long-o>,o,Close-mid_back_rounded_vowel
-o (long),ओ (long),10_o_2.long,obhāsa,ओभास,10_o_2.long_obhāsa,obhāsa,o in old,oː,Close-mid_back_rounded_vowel
+ū,ऊ,06_ū,ūhacca,ऊहच्च,06_ū_ūhacca,ūhacca,oo in loot,uː,Close_back_rounded_vowel
+e (s),ए (s),07_e_1.short,mettā,मेत्ता,07_e_1.short_mettā,mettā,<half of long-e>,e,Close-mid_front_unrounded_vowel
+e (l),ए (l),08_e_2.long,eka,एक,08_e_2.long_eka,eka 1,ai in wait,eː,Close-mid_front_unrounded_vowel
+o (s),ओ (s),09_o_1.short,potthaka,पोत्थक,09_o_1.short_potthaka,potthaka,<half of long-o>,o,Close-mid_back_rounded_vowel
+o (l),ओ (l),10_o_2.long,obhāsa,ओभास,10_o_2.long_obhāsa,obhāsa,o in old,oː,Close-mid_back_rounded_vowel
 ka,क,11_ka,kamma,कम्म,11_ka_kamma,kamma 1,k in skin,k,Voiceless_velar_plosive
 kha,ख,12_kha,khandha,खन्ध,12_kha_khandha,khandha 1,kh in khan,kʰ,Aspirated_consonant
 ga,ग,13_ga,gotama,गोतम,13_ga_gotama,gotama,g in again,ɡ,Voiced_velar_plosive
@@ -18,7 +18,7 @@ ca,च,16_ca,cakka,चक्क,16_ca_cakka,cakka 1,c in chicken,tɕ,Voiceless_a
 cha,छ,17_cha,chaṭṭha,छट्ठ,17_cha_chaṭṭha,chaṭṭha,ch in rich,tɕʰ,Aspirated_consonant
 ja,ज,18_ja,jaṅgala,जङ्गल,18_ja_jaṅgala,jaṅgala 1,j in juice,dʑ,Voiced_alveolo-palatal_affricate
 jha,झ,19_jha,jhāna,झान,19_jha_jhāna,jhāna,dgeh in hedgehog,dʑʱ,Breathy_voice
-ña,ञ,20_ña,ñāṇa,ञाण,20_ña_1.begin.option.1_ñāṇa | 20_ña_1.begin.option.2_ñāṇa | 20_ña_2.middle.option.1_paññā | 20_ña_2.middle.option.2_paññā,ñāṇa,ny in canyon,ɲ,Voiced_palatal_nasal
+ña,ञ,20_ña,ñāṇa,ञाण,20_ña_2.middle.option.2_paññā,ñāṇa,ny in canyon,ɲ,Voiced_palatal_nasal
 ṭa,ट,21_ṭa,ṭīkā,टीका,21_ṭa_ṭīkā,ṭīkā,t in stable,ʈ,Voiceless_retroflex_plosive
 ṭha,ठ,22_ṭha,ṭhāna,ठान,22_ṭha_ṭhāna,ṭhāna 1,t-h in cat-head,ʈʰ,Aspirated_consonant
 ḍa,ड,23_ḍa,ḍaha,डह,23_ḍa_ḍaha,ḍaha,d in board,ɖ,Voiced_retroflex_plosive
@@ -28,7 +28,7 @@ ta,त,26_ta,tathāgata,तथागत,26_ta_tathāgata,tathāgata,t in latina 
 tha,थ,27_tha,thaddha,थद्ध,27_tha_thaddha,thaddha 1,th in thief,tʰ,Aspirated_consonant
 da,द,28_da,dukkha,दुक्ख,28_da_dukkha,dukkha 1,d in día (mexican),d,Voiced_dental_plosive
 dha,ध,29_dha,dhaja,धज,29_dha_dhaja,dhaja 1,d-h in old-house,dʱ,Breathy_voice
-na,न,30_na,nibbāna,निब्बान,30_na_1.begin_nibbāna | 30_na_1.middle_khandha,nibbāna,n in tenth,n,Voiced_alveolar_nasal
+na,न,30_na,nibbāna,निब्बान,30_na_1.begin_nibbāna,nibbāna,n in tenth,n,Voiced_alveolar_nasal
 pa,प,31_pa,pappoti,पप्पोति,31_pa_pappoti,pappoti,p in span,p,Voiceless_bilabial_plosive
 pha,फ,32_pha,phala,फल,32_pha_phala,phala 1,ph in uphill,pʰ,Aspirated_consonant
 ba,ब,33_ba,bahu,बहु,33_ba_bahu,bahu,b in about,b,Voiced_bilabial_plosive
@@ -40,5 +40,5 @@ la,ल,38_la,loka,लोक,38_la_loka,loka 1,l in leaf,l,Voiced_alveolar_latera
 va,व,39_va,viveka,विवेक,39_va_viveka,viveka 2,between w in wine and v in vine,ʋ,Voiced_labiodental_approximant
 sa,स,40_sa,saṅgha,सङ्घ,40_sa_saṅgha,saṅgha 1,s in soup,s,Voiceless_alveolar_fricative
 ha,ह,41_ha,hadaya,हदय,41_ha_hadaya,hadaya,h in ahead,ɦ,Voiced_glottal_fricative
-ḷa,ळ,42_ḷa,pāḷi,पाळि,42_ḷa_pāḷi,pāḷi,le in bottle,l̩,Syllabic_consonant
+ḷa,ळ,42_ḷa,saḷāyatana,सळायतन,42_ḷa_saḷāyatana,saḷāyatana,le in bottle,l̩,Syllabic_consonant
 ṁ,ं,43_ṁ,saṃsāra,संसार,43_ṁ_saṃsāra,saṃsāra,<nasal vowel>,◌̃,Nasal_vowel
