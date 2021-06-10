@@ -2,3 +2,7 @@
 
 # Learning material and system for languages
 
+## Steps
+
+- ./build.ps1
+- ./pāli/buildDecks.ps1
